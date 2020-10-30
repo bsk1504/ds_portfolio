@@ -14,4 +14,4 @@
 ### Deep Learning
 
 ### Time Series -- LSTM
-* [Household Power Consumption]():
+* [Household Power Consumption](https://github.com/bsk1504/ds_portfolio/blob/master/household_power_consumption/Multivariate%20Multistep%20Time%20Series%20Forecasting%20using%20Stacked%20LSTM%20sequence%20to%20sequence%20Autoencoder%20in%20Tensorflow%202.0%2C%20Keras.ipynb):
